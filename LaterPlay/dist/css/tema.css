@@ -1,0 +1,96 @@
+.set-imagem {
+    height: 100vh;
+    background-image: url(../assets/img/imagebackground.png);
+    background-size: cover;
+    background-position: center;   
+}
+
+.cor-fundo {
+    margin-top: 10vh;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.363);
+}
+
+.tam {
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+
+.pad {
+    padding: 100px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.social a[href="http://facebook.com/"] {
+    background: url(/dist/assets/img/icone-face.png);
+    background-size: 48px 48px;
+}
+
+.social a[href="https://www.instagram.com/"] {
+    background: url(/dist/assets/img/icone-insta.png);
+    background-size: 48px 48px;
+}
+
+.social a[href="https://twitter.com/"] {
+    background: url(/dist/assets/img/icone-twitter.png);
+    background-size: 48px 48px;
+}
+
+.social a[href="https://www.linkedin.com/"] {
+    background: url(/dist/assets/img/icone-linkedin.png);
+    background-size: 48px 48px;
+}
+
+.social a[href="https://github.com/"] {
+    background: url(/dist/assets/img/icone-github.png);
+    background-size: 48px 48px;
+}
+
+.mar {
+    margin-left: -30px;
+}
+.social a {
+    display: block;
+    width: 48px;
+    height: 48px;
+    text-indent: -9999px;
+}
+
+.social li {
+    display: inline-block;
+    padding: 20px;
+}
+
+
+
+/* Cores do tema*/
+
+.tema-primary {
+    background-color: #ff914d;
+}
+
+.tema-secondary {
+    background-color: #171810;
+}
+
+
+
+.img-icone {
+    padding: 20px;
+    width: 80px;
+
+}
+
+.borda {
+    margin: 5px 0 5px 0;
+    border: #ff914d 1px solid;
+}
+
+
+.img-logo {
+    width: 50px;
+}
+
